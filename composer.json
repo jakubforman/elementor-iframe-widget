@@ -1,0 +1,39 @@
+{
+  "name": "jayjay666/elementor-iframe-widget",
+  "type": "wordpress-plugin",
+  "description": "Adding iframe widget in Elementor page builder WordPress plugin. \"Elementor\" plugin is required.",
+  "homepage": "https://github.com/jayjay666/elementor-iframe-widget",
+  "license": "GPL-2.0+",
+  "keywords": [
+    "WP",
+    "WP Plugin",
+    "WordPress",
+    "WordPress Plugin",
+    "Elementor",
+    "Elementor iframe",
+    "iframe",
+    "Elementor Plugin",
+    "Elementor Page Builder",
+    "Elementor Page Builder Plugin"
+  ],
+  "authors": [
+    {
+      "name": "Jakub Josef Forman",
+      "email": "dev@jakubforman.com",
+      "homepage": "https://jakubforman.eu",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=7.1",
+    "jayjay666/wp-requirements-checker": "^1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "jayjay666\\ElementorIframeWidget\\": "src/",
+      "jayjay666\\ElementorIframeWidget\\includes\\": "includes/"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}

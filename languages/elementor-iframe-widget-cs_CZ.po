@@ -1,0 +1,74 @@
+# Copyright (C) 2021 Jakub Josef Forman
+# This file is distributed under the same license as the Elementor Iframe Widget plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Elementor Iframe Widget 1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/elementor-iframe-"
+"widget\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-02-15T18:27:31+00:00\n"
+"PO-Revision-Date: 2021-02-15 19:29+0100\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Domain: elementor-iframe-widget\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"Language: cs_CZ\n"
+
+#. Plugin Name of the plugin
+msgid "Elementor Iframe Widget"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://jakubforman.eu/personal-projects/elementor-iframe-widget/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Adding iframe widget in Elementor page builder."
+msgstr "Přidává iframe widget pro Elementor page Builder."
+
+#. Author of the plugin
+msgid "Jakub Josef Forman"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://jakubforman.eu"
+msgstr ""
+
+#: includes/JayElementorBooster.php:29
+msgid "Jays Booster"
+msgstr ""
+
+#: src/Widgets/ElementorIframeWidget.php:74
+msgid "Size"
+msgstr "Velikost"
+
+#: src/Widgets/ElementorIframeWidget.php:83
+msgid "Height"
+msgstr "Výška"
+
+#: src/Widgets/ElementorIframeWidget.php:113
+msgid "Width"
+msgstr "Šířka"
+
+#: src/Widgets/ElementorIframeWidget.php:151
+msgid "Content"
+msgstr "Obsah"
+
+#: src/Widgets/ElementorIframeWidget.php:160
+msgid "URL to embed"
+msgstr "URL pro embed"
+
+#: src/Widgets/ElementorIframeWidget.php:166
+msgid "https://your-link.com"
+msgstr "https://muj-odkaz.cz"
+
+#: src/Widgets/ElementorIframeWidget.php:174
+msgid "Title attribute"
+msgstr "Atribut Title"
+
+#: src/Widgets/ElementorIframeWidget.php:180
+msgid "My iframe page of somtehing"
+msgstr "Co je obsaženo v iframe"

@@ -1,0 +1,24 @@
+# Logs and databases #
+######################
+*.log
+*.sql
+*.env
+
+# OS generated files #
+######################
+**.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+._*
+
+# Composer #
+##########
+!assets/js/vendor/
+wpcs/
+/vendor/
+
+assets/images/.DS_Store
+
+# PhpStrom Project Files #
+.idea/
